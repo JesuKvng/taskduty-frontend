@@ -1,0 +1,9 @@
+.text-box{
+    width: 100%;
+}
+
+@media (width > 900px){
+    .text-box{
+        width: 50%;
+    }
+}

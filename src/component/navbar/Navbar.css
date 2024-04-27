@@ -1,0 +1,13 @@
+a{
+    text-decoration: none;
+}
+
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: auto;
+    max-width: 1440px;
+}
+
+
